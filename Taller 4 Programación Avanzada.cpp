@@ -32,10 +32,6 @@ int main(){
 	int longitud;
 	int* vec;
 	
-	cout<<digit(1234, 5)<<endl;
-	
-	cout<<numDigitos(1234)<<endl;
-	
 	cout<<"Ingrese la longitud del arreglo unidimensional"<<endl<<endl;
 	cin>>longitud;
 	
